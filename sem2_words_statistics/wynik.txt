@@ -1,0 +1,39 @@
+Slowa o dlugosci  14  wystepuja  9  razy w pliku.
+Slowa o dlugosci  13  wystepuja  29  razy w pliku.
+Slowa o dlugosci  12  wystepuja  41  razy w pliku.
+Slowa o dlugosci  11  wystepuja  119  razy w pliku.
+Slowa o dlugosci  10  wystepuja  250  razy w pliku.
+Slowa o dlugosci  9  wystepuja  555  razy w pliku.
+Slowa o dlugosci  8  wystepuja  862  razy w pliku.
+Slowa o dlugosci  7  wystepuja  1499  razy w pliku.
+Slowa o dlugosci  6  wystepuja  1852  razy w pliku.
+Slowa o dlugosci  5  wystepuja  3039  razy w pliku.
+Slowa o dlugosci  4  wystepuja  4958  razy w pliku.
+Slowa o dlugosci  3  wystepuja  5739  razy w pliku.
+Slowa o dlugosci  2  wystepuja  3992  razy w pliku.
+Slowa o dlugosci  1  wystepuja  1133  razy w pliku.
+Slowa o dlugosci  0  wystepuja  27917  razy w pliku.(znaki interpunkcyjne, spacje itp)
+10 NAJDLUZSZYCH SLOW
+1. Slowo: representative o dlugosci 14 
+2. Slowo: contradictions o dlugosci 14 
+3. Slowo: disappointment o dlugosci 14 
+4. Slowo: entertainments o dlugosci 14 
+5. Slowo: weatherstained o dlugosci 14 
+6. Slowo: professionally o dlugosci 14 
+7. Slowo: correspondence o dlugosci 14 
+8. Slowo: ‘preservation’ o dlugosci 14 
+9. Slowo: ‘Eavesdropping o dlugosci 14 
+10. Slowo: unnecessarily o dlugosci 13 
+12. NAJCZESCIEJ WYSTEPUJACYCH SLOW
+1. Slowo: the wystapilo 1123 razy 
+2. Slowo: and wystapilo 958 razy 
+3. Slowo: of wystapilo 643 razy 
+4. Slowo: to wystapilo 487 razy 
+5. Slowo: a wystapilo 386 razy 
+6. Slowo: in wystapilo 366 razy 
+7. Slowo: was wystapilo 352 razy 
+8. Slowo: it wystapilo 351 razy 
+9. Slowo: ’ wystapilo 351 razy 
+10. Slowo: I wystapilo 340 razy 
+11. Slowo: he wystapilo 339 razy 
+12. Slowo: that wystapilo 333 razy 
