@@ -1,2 +1,2 @@
 # Computer Programming Classes
- End-of-semester final projects at Silesian Univeristy of Technology. Mainly wrote in C and C++.
+ End-of-semester final projects at Silesian Univeristy of Technology. Mainly C++ and C.
