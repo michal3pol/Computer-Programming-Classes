@@ -1,0 +1,14 @@
+﻿  alejka.cpp
+  GodzSprzedazy.cpp
+  Klawiatura.cpp
+  lista_alejek.cpp
+  main.cpp
+  mysz.cpp
+  Sluchawki.cpp
+C:\Users\michal\source\repos\Projekty_studia\Computer-Programming-Classes\sem3_warehouse\Sluchawki.cpp(31,7): warning C4101: "przew": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\michal\source\repos\Projekty_studia\Computer-Programming-Classes\sem3_warehouse\Sluchawki.cpp(31,14): warning C4101: "mikro": lokalna zmienna, do której nie istnieje odwołanie
+  sprzet.cpp
+  Generowanie kodu...
+C:\Users\michal\source\repos\Projekty_studia\Computer-Programming-Classes\sem3_warehouse\lista_alejek.cpp(104): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: liczba
+C:\Users\michal\source\repos\Projekty_studia\Computer-Programming-Classes\sem3_warehouse\alejka.cpp(368): warning C4715: "Alejka::Sprzedaj”: niewszystkie ścieżki kodu zwracają wartość
+  magazyn.vcxproj -> C:\Users\michal\source\repos\Projekty_studia\Computer-Programming-Classes\sem3_warehouse\x64\Debug\magazyn.exe

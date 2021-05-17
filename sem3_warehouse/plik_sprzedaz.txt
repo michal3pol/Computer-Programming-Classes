@@ -1,0 +1,46 @@
+SPRZEDANO MYSZ
+Wyprodukowany: 01.12.2010r.
+Przyjety: 25.10.2020r. o godz. 18:34
+Nr WZ: 1234
+Rodzaj myszy: mechaniczna(kulkowa)
+Komunikacja z komputerem: przewodowa
+Sprzedano: 25.10.2020r. o godz: 22:43
+---------------------------------------------
+
+SPRZEDANO KLAWIATURE
+Wyprodukowany: 16.02.2020r.
+Przyjety: 25.10.2020r. o godz. 09:12
+Nr WZ: 5222
+Rodzaj klawiatury: mechaniczna
+Komunikacja z komputerem: bezprzewodowa
+Sprzedano: 27.10.2020r. o godz: 22:30
+---------------------------------------------
+
+SPRZEDANO SLUCHAWKI
+Wyprodukowany: 12.12.2020r.
+Przyjety: 25.10.2020r. o godz. 12:43
+Nr WZ: 3111
+Rodzaj sluchawek: douszne
+Komunikacja z komputerem: przewodowa
+Sluchawki posiadaja mikrofon.
+Maksymalne pasmo przenoszenia sluchawek: 200 Hz
+Sprzedano: 27.10.2020r. o godz: 22:34
+---------------------------------------------
+
+SPRZEDANO MYSZ
+Wyprodukowany: 01.12.2010r.
+Przyjety: 25.10.2020r. o godz. 18:34
+Nr WZ: 1232
+Rodzaj myszy: mechaniczna(kulkowa)
+Komunikacja z komputerem: przewodowa
+Sprzedano: 27.10.2020r. o godz: 22:35
+---------------------------------------------
+
+SPRZEDANO MYSZ
+Wyprodukowany: 01.12.2010r.
+Przyjety: 25.10.2020r. o godz. 18:34
+Nr WZ: 1232
+Rodzaj myszy: mechaniczna(kulkowa)
+Komunikacja z komputerem: przewodowa
+Sprzedano: 02.11.2020r. o godz: 19:33
+---------------------------------------------

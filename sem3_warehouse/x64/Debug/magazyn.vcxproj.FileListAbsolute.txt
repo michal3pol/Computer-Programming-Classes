@@ -1,0 +1,2 @@
+C:\Users\michal\source\repos\Projekty_studia\Computer-Programming-Classes\sem3_warehouse\x64\Debug\magazyn.exe
+C:\Users\michal\source\repos\Projekty_studia\Computer-Programming-Classes\sem3_warehouse\x64\Debug\magazyn.pdb
