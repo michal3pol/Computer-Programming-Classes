@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cat1.png</file>
+        <file>images/cat2.png</file>
+        <file>images/catr0.png</file>
+        <file>images/catr1.png</file>
+        <file>images/cat_sleep.png</file>
+        <file>images/cat_z1_1.png</file>
+        <file>images/cat_z1_2.png</file>
+        <file>images/cat_z1_3.png</file>
+        <file>images/cat_z2_1.png</file>
+        <file>images/cat_z2_2.png</file>
+        <file>images/cat_z2_3.png</file>
+        <file>images/cat_z2_4.png</file>
+        <file>images/cat_z2_5.png</file>
+        <file>images/cat_z2_6.png</file>
+        <file>images/cat_e1.png</file>
+        <file>images/cat_e2.png</file>
+        <file>images/dog_r1.png</file>
+        <file>images/dog_r2.png</file>
+        <file>images/dog_s.png</file>
+        <file>images/dog_sleep.png</file>
+        <file>images/dog_e1.png</file>
+        <file>images/dog_e2.png</file>
+        <file>images/dog_z1_1.png</file>
+        <file>images/dog_z1_2.png</file>
+        <file>images/dog_z1_3.png</file>
+        <file>images/dog_z2_1.png</file>
+        <file>images/dog_z2_2.png</file>
+    </qresource>
+</RCC>
