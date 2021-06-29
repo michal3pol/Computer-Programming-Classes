@@ -9,3 +9,7 @@ This project can create statistic of words (lenght, occurences) in input file. O
 
 ### 3. Warehouse - 3rd semester
 This console project imitates a program for a warehouse (with computer equipment) management. Program can read _.csv_ files and save history of sales.
+
+### 4. Tamagotchi - 4rd semester
+This project is a tamagotchi game with some modifications and extra features. It's been made in QT Creator framework.  
+Full specification available in the folder.
