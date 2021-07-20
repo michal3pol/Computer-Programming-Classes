@@ -13,4 +13,4 @@ This console project imitates a program for a warehouse (with computer equipment
 ### 4. Tamagotchi - 4rd semester
 This project is a tamagotchi game with some modifications and extra features. It's been made in QT Creator framework.  
 Full specification in Polish available [here](https://github.com/michal3pol/Computer-Programming-Classes/blob/main/sem4_tamagotchi/Pelna_Dokumentacja_Tamagotchi_PL.pdf).
-To see more details open the folder.
+To see more details [open](https://github.com/michal3pol/Computer-Programming-Classes/tree/main/sem4_tamagotchi) the folder.
